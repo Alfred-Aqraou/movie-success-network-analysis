@@ -1,4 +1,20 @@
-# Recipe for High-Grossing Movies
+# Computational social science: Movie success and collaboration networks
+
+> **TL;DR:** Computational social-science analysis of film success, combining film metadata, text analysis and collaboration networks in an interactive website. I contributed network analysis, visualization behavior, statistical checks and the notebook-to-website workflow.
+
+## My contribution - Alfred Aqraou
+
+- Developed and refined the interactive collaboration-network view, including centrality measures, layouts, persistent node pinning and reset behavior.
+- Improved the analysis and methodology, including TF-IDF filtering, null-model repetitions and consistency checks between notebook results and website explanations.
+- Fixed the notebook-to-website data-injection workflow and improved the project documentation and notebook navigation.
+
+This was a collaborative DTU Computational Social Science project (Group 16). The analysis and conclusions are team outputs; the bullets describe my own recorded contributions.
+
+**Selected contributions:** [Centrality measures and network layouts](https://github.com/Alfred-Aqraou/CSS-final-project/commit/3b767d55b9af9b4ccc2b460fc2c1c9944bcac2aa) · [Interactive network behavior](https://github.com/Alfred-Aqraou/CSS-final-project/commit/a0f893c3b8dca02d0d7d87f738224f2dfa576f37) · [Text analysis and null-model checks](https://github.com/Alfred-Aqraou/CSS-final-project/commit/2661a0bb59594e5c0e9757f25b49f0e8838ac2c2).
+
+---
+
+## Project documentation
 
 DTU 02467 Computational Social Science · Spring 2026 · Project Assignment B · Group 16
 
