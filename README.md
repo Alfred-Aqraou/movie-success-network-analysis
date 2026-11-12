@@ -10,7 +10,7 @@
 
 This was a collaborative DTU Computational Social Science project (Group 16). The analysis and conclusions are team outputs; the bullets describe my own recorded contributions.
 
-**Selected contributions:** [Centrality measures and network layouts](https://github.com/Alfred-Aqraou/CSS-final-project/commit/3b767d55b9af9b4ccc2b460fc2c1c9944bcac2aa) · [Interactive network behavior](https://github.com/Alfred-Aqraou/CSS-final-project/commit/a0f893c3b8dca02d0d7d87f738224f2dfa576f37) · [Text analysis and null-model checks](https://github.com/Alfred-Aqraou/CSS-final-project/commit/2661a0bb59594e5c0e9757f25b49f0e8838ac2c2).
+**Selected contributions:** [Centrality measures and network layouts](https://github.com/Alfred-Aqraou/movie-success-network-analysis/commit/3b767d55b9af9b4ccc2b460fc2c1c9944bcac2aa) · [Interactive network behavior](https://github.com/Alfred-Aqraou/movie-success-network-analysis/commit/a0f893c3b8dca02d0d7d87f738224f2dfa576f37) · [Text analysis and null-model checks](https://github.com/Alfred-Aqraou/movie-success-network-analysis/commit/2661a0bb59594e5c0e9757f25b49f0e8838ac2c2).
 
 ---
 
@@ -18,8 +18,8 @@ This was a collaborative DTU Computational Social Science project (Group 16). Th
 
 DTU 02467 Computational Social Science · Spring 2026 · Project Assignment B · Group 16
 
-**Website:** https://alfred-aqraou.github.io/CSS-final-project/
-**Notebook:** https://nbviewer.org/github/Alfred-Aqraou/CSS-final-project/blob/main/Analysis.ipynb
+**Website:** https://alfred-aqraou.github.io/movie-success-network-analysis/
+**Notebook:** https://nbviewer.org/github/Alfred-Aqraou/movie-success-network-analysis/blob/main/Analysis.ipynb
 
 ---
 
